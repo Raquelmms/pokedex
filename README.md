@@ -6,7 +6,7 @@
   <a href="#funciona">O que funciona</a> &#xa0; | &#xa0;
   <a href="#pendente">Pendências</a> &#xa0; | &#xa0;
   <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-   <a href="#fontes">Fontes</a>
+   <a href="#fontes">Fontes</a> | &#xa0;
   <a href="#desenvolvedores">Desenvolvedores</a> 
  
 </p>
@@ -104,7 +104,7 @@ $ npm run start
 
 <h2 id="fontes"> Fontes </h2>
 
-As principais imagens utilizadas nesse projeto foram criadas por
+As principais imagens utilizadas nesse projeto foram desenvolvidas por:
 * Emmanuel García
 * Pixelwolfie
 * Daniel Mackey
