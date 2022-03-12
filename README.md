@@ -23,7 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * Styled-components
 * Material UI
 * Mantine
-* GlobalState
+
 
 <h2 id="funciona">:heavy_check_mark: O que funciona</h2>
 
