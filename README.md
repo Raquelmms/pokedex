@@ -6,7 +6,9 @@
   <a href="#funciona">O que funciona</a> &#xa0; | &#xa0;
   <a href="#pendente">Pendências</a> &#xa0; | &#xa0;
   <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#desenvolvedores">Desenvolvedores</a>
+   <a href="#fontes">Fontes</a>
+  <a href="#desenvolvedores">Desenvolvedores</a> 
+ 
 </p>
 
 <h2 id="sobre">:notebook: Sobre </h2>
@@ -99,6 +101,13 @@ $ npm install
 $ npm run start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
+
+<h2 id="fontes"> Fontes </h2>
+
+As principais imagens utilizadas nesse projeto foram criadas por
+* Emmanuel García
+* Pixelwolfie
+* Daniel Mackey
 
 <h2 id="desenvolvedores">:construction_worker: Desenvolvedores</h2>
 
