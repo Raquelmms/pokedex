@@ -6,7 +6,7 @@
   <a href="#funciona">O que funciona</a> &#xa0; | &#xa0;
   <a href="#pendente">Pendências</a> &#xa0; | &#xa0;
   <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-   <a href="#fontes">Fontes</a> | &#xa0;
+  <a href="#fontes">Fontes</a> | &#xa0;
   <a href="#desenvolvedores">Desenvolvedores</a> 
  
 </p>
