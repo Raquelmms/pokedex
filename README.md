@@ -4,7 +4,6 @@
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#funciona">O que funciona</a> &#xa0; | &#xa0;
-  <a href="#nao-funciona">O que não funciona</a> &#xa0; | &#xa0;
   <a href="#pendente">Pendências</a> &#xa0; | &#xa0;
   <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#desenvolvedores">Desenvolvedores</a>
@@ -35,7 +34,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * Realizar batalhas entre dois pokemons da escolha do usuário
 * Responsividade
 
-<h2 id="nao-funciona">:x: O que não funciona</h2>
 
 
 <h2 id="pendente">:construction: Em desenvolvimento</h2>
@@ -92,9 +90,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/future4code/Vaughan-pokedex2.git>
+$ git clone <hhttps://github.com/Raquelmms/pokedex.git>
 # Acesse a pasta do projeto no terminal
-$ cd ./Vaughan-pokedex2
+$ cd ./pokedex
 # Instale as dependências
 $ npm install
 # Para iniciar o projeto
